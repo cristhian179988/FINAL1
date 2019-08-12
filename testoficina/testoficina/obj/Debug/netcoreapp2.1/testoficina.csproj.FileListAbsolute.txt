@@ -1,0 +1,14 @@
+C:\Users\cbaut\source\repos\NewFinal\testoficina\testoficina\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\cbaut\source\repos\NewFinal\testoficina\testoficina\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\cbaut\source\repos\NewFinal\testoficina\testoficina\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\cbaut\source\repos\NewFinal\testoficina\testoficina\bin\Debug\netcoreapp2.1\testoficina.deps.json
+C:\Users\cbaut\source\repos\NewFinal\testoficina\testoficina\bin\Debug\netcoreapp2.1\testoficina.runtimeconfig.json
+C:\Users\cbaut\source\repos\NewFinal\testoficina\testoficina\bin\Debug\netcoreapp2.1\testoficina.runtimeconfig.dev.json
+C:\Users\cbaut\source\repos\NewFinal\testoficina\testoficina\bin\Debug\netcoreapp2.1\testoficina.dll
+C:\Users\cbaut\source\repos\NewFinal\testoficina\testoficina\bin\Debug\netcoreapp2.1\testoficina.pdb
+C:\Users\cbaut\source\repos\NewFinal\testoficina\testoficina\obj\Debug\netcoreapp2.1\testoficina.csprojAssemblyReference.cache
+C:\Users\cbaut\source\repos\NewFinal\testoficina\testoficina\obj\Debug\netcoreapp2.1\testoficina.csproj.CoreCompileInputs.cache
+C:\Users\cbaut\source\repos\NewFinal\testoficina\testoficina\obj\Debug\netcoreapp2.1\testoficina.AssemblyInfoInputs.cache
+C:\Users\cbaut\source\repos\NewFinal\testoficina\testoficina\obj\Debug\netcoreapp2.1\testoficina.AssemblyInfo.cs
+C:\Users\cbaut\source\repos\NewFinal\testoficina\testoficina\obj\Debug\netcoreapp2.1\testoficina.dll
+C:\Users\cbaut\source\repos\NewFinal\testoficina\testoficina\obj\Debug\netcoreapp2.1\testoficina.pdb
