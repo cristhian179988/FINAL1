@@ -185,11 +185,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\cbaut\\source\\repos\\NewFinal\\api\\Model\\Model.csproj",
+      "projectUniqueName": "C:\\Users\\cbaut\\source\\repos\\Rep\\api\\Model\\Model.csproj",
       "projectName": "Model",
-      "projectPath": "C:\\Users\\cbaut\\source\\repos\\NewFinal\\api\\Model\\Model.csproj",
+      "projectPath": "C:\\Users\\cbaut\\source\\repos\\Rep\\api\\Model\\Model.csproj",
       "packagesPath": "C:\\Users\\cbaut\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\cbaut\\source\\repos\\NewFinal\\api\\Model\\obj\\",
+      "outputPath": "C:\\Users\\cbaut\\source\\repos\\Rep\\api\\Model\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

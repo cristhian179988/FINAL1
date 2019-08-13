@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\cbaut\\source\\repos\\NewFinal\\api\\api\\api.csproj": {}
+    "C:\\Users\\cbaut\\source\\repos\\Rep\\api\\api\\api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\cbaut\\source\\repos\\NewFinal\\api\\api\\api.csproj": {
+    "C:\\Users\\cbaut\\source\\repos\\Rep\\api\\api\\api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\cbaut\\source\\repos\\NewFinal\\api\\api\\api.csproj",
+        "projectUniqueName": "C:\\Users\\cbaut\\source\\repos\\Rep\\api\\api\\api.csproj",
         "projectName": "api",
-        "projectPath": "C:\\Users\\cbaut\\source\\repos\\NewFinal\\api\\api\\api.csproj",
+        "projectPath": "C:\\Users\\cbaut\\source\\repos\\Rep\\api\\api\\api.csproj",
         "packagesPath": "C:\\Users\\cbaut\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\cbaut\\source\\repos\\NewFinal\\api\\api\\obj\\",
+        "outputPath": "C:\\Users\\cbaut\\source\\repos\\Rep\\api\\api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -30,11 +30,11 @@
         "frameworks": {
           "netcoreapp2.1": {
             "projectReferences": {
-              "C:\\Users\\cbaut\\source\\repos\\NewFinal\\api\\Persistence\\Persistence.csproj": {
-                "projectPath": "C:\\Users\\cbaut\\source\\repos\\NewFinal\\api\\Persistence\\Persistence.csproj"
+              "C:\\Users\\cbaut\\source\\repos\\Rep\\api\\Persistence\\Persistence.csproj": {
+                "projectPath": "C:\\Users\\cbaut\\source\\repos\\Rep\\api\\Persistence\\Persistence.csproj"
               },
-              "C:\\Users\\cbaut\\source\\repos\\NewFinal\\api\\service\\service.csproj": {
-                "projectPath": "C:\\Users\\cbaut\\source\\repos\\NewFinal\\api\\service\\service.csproj"
+              "C:\\Users\\cbaut\\source\\repos\\Rep\\api\\service\\service.csproj": {
+                "projectPath": "C:\\Users\\cbaut\\source\\repos\\Rep\\api\\service\\service.csproj"
               }
             }
           }
@@ -67,6 +67,10 @@
             "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
               "version": "[2.1.9, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[2.0.0, )"
             }
           },
           "imports": [
@@ -77,14 +81,14 @@
         }
       }
     },
-    "C:\\Users\\cbaut\\source\\repos\\NewFinal\\api\\Model\\Model.csproj": {
+    "C:\\Users\\cbaut\\source\\repos\\Rep\\api\\Model\\Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\cbaut\\source\\repos\\NewFinal\\api\\Model\\Model.csproj",
+        "projectUniqueName": "C:\\Users\\cbaut\\source\\repos\\Rep\\api\\Model\\Model.csproj",
         "projectName": "Model",
-        "projectPath": "C:\\Users\\cbaut\\source\\repos\\NewFinal\\api\\Model\\Model.csproj",
+        "projectPath": "C:\\Users\\cbaut\\source\\repos\\Rep\\api\\Model\\Model.csproj",
         "packagesPath": "C:\\Users\\cbaut\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\cbaut\\source\\repos\\NewFinal\\api\\Model\\obj\\",
+        "outputPath": "C:\\Users\\cbaut\\source\\repos\\Rep\\api\\Model\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -129,14 +133,14 @@
         }
       }
     },
-    "C:\\Users\\cbaut\\source\\repos\\NewFinal\\api\\Persistence\\Persistence.csproj": {
+    "C:\\Users\\cbaut\\source\\repos\\Rep\\api\\Persistence\\Persistence.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\cbaut\\source\\repos\\NewFinal\\api\\Persistence\\Persistence.csproj",
+        "projectUniqueName": "C:\\Users\\cbaut\\source\\repos\\Rep\\api\\Persistence\\Persistence.csproj",
         "projectName": "Persistence",
-        "projectPath": "C:\\Users\\cbaut\\source\\repos\\NewFinal\\api\\Persistence\\Persistence.csproj",
+        "projectPath": "C:\\Users\\cbaut\\source\\repos\\Rep\\api\\Persistence\\Persistence.csproj",
         "packagesPath": "C:\\Users\\cbaut\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\cbaut\\source\\repos\\NewFinal\\api\\Persistence\\obj\\",
+        "outputPath": "C:\\Users\\cbaut\\source\\repos\\Rep\\api\\Persistence\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -155,8 +159,8 @@
         "frameworks": {
           "netstandard2.0": {
             "projectReferences": {
-              "C:\\Users\\cbaut\\source\\repos\\NewFinal\\api\\Model\\Model.csproj": {
-                "projectPath": "C:\\Users\\cbaut\\source\\repos\\NewFinal\\api\\Model\\Model.csproj"
+              "C:\\Users\\cbaut\\source\\repos\\Rep\\api\\Model\\Model.csproj": {
+                "projectPath": "C:\\Users\\cbaut\\source\\repos\\Rep\\api\\Model\\Model.csproj"
               }
             }
           }
@@ -199,14 +203,14 @@
         }
       }
     },
-    "C:\\Users\\cbaut\\source\\repos\\NewFinal\\api\\service\\service.csproj": {
+    "C:\\Users\\cbaut\\source\\repos\\Rep\\api\\service\\service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\cbaut\\source\\repos\\NewFinal\\api\\service\\service.csproj",
+        "projectUniqueName": "C:\\Users\\cbaut\\source\\repos\\Rep\\api\\service\\service.csproj",
         "projectName": "service",
-        "projectPath": "C:\\Users\\cbaut\\source\\repos\\NewFinal\\api\\service\\service.csproj",
+        "projectPath": "C:\\Users\\cbaut\\source\\repos\\Rep\\api\\service\\service.csproj",
         "packagesPath": "C:\\Users\\cbaut\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\cbaut\\source\\repos\\NewFinal\\api\\service\\obj\\",
+        "outputPath": "C:\\Users\\cbaut\\source\\repos\\Rep\\api\\service\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -225,11 +229,11 @@
         "frameworks": {
           "netstandard2.0": {
             "projectReferences": {
-              "C:\\Users\\cbaut\\source\\repos\\NewFinal\\api\\Model\\Model.csproj": {
-                "projectPath": "C:\\Users\\cbaut\\source\\repos\\NewFinal\\api\\Model\\Model.csproj"
+              "C:\\Users\\cbaut\\source\\repos\\Rep\\api\\Model\\Model.csproj": {
+                "projectPath": "C:\\Users\\cbaut\\source\\repos\\Rep\\api\\Model\\Model.csproj"
               },
-              "C:\\Users\\cbaut\\source\\repos\\NewFinal\\api\\Persistence\\Persistence.csproj": {
-                "projectPath": "C:\\Users\\cbaut\\source\\repos\\NewFinal\\api\\Persistence\\Persistence.csproj"
+              "C:\\Users\\cbaut\\source\\repos\\Rep\\api\\Persistence\\Persistence.csproj": {
+                "projectPath": "C:\\Users\\cbaut\\source\\repos\\Rep\\api\\Persistence\\Persistence.csproj"
               }
             }
           }

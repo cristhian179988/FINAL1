@@ -7,7 +7,9 @@ C:\Users\cbaut\source\repos\NewFinal\api\api\bin\Debug\netcoreapp2.1\api.Views.d
 C:\Users\cbaut\source\repos\NewFinal\api\api\bin\Debug\netcoreapp2.1\api.Views.pdb
 C:\Users\cbaut\source\repos\NewFinal\api\api\bin\Debug\netcoreapp2.1\Model.dll
 C:\Users\cbaut\source\repos\NewFinal\api\api\bin\Debug\netcoreapp2.1\Persistence.dll
+C:\Users\cbaut\source\repos\NewFinal\api\api\bin\Debug\netcoreapp2.1\service.dll
 C:\Users\cbaut\source\repos\NewFinal\api\api\bin\Debug\netcoreapp2.1\Persistence.pdb
+C:\Users\cbaut\source\repos\NewFinal\api\api\bin\Debug\netcoreapp2.1\service.pdb
 C:\Users\cbaut\source\repos\NewFinal\api\api\bin\Debug\netcoreapp2.1\Model.pdb
 C:\Users\cbaut\source\repos\NewFinal\api\api\obj\Debug\netcoreapp2.1\api.csprojAssemblyReference.cache
 C:\Users\cbaut\source\repos\NewFinal\api\api\obj\Debug\netcoreapp2.1\api.csproj.CoreCompileInputs.cache
@@ -34,5 +36,3 @@ C:\Users\cbaut\source\repos\NewFinal\api\api\obj\Debug\netcoreapp2.1\api.Views.p
 C:\Users\cbaut\source\repos\NewFinal\api\api\obj\Debug\netcoreapp2.1\api.csproj.CopyComplete
 C:\Users\cbaut\source\repos\NewFinal\api\api\obj\Debug\netcoreapp2.1\api.dll
 C:\Users\cbaut\source\repos\NewFinal\api\api\obj\Debug\netcoreapp2.1\api.pdb
-C:\Users\cbaut\source\repos\NewFinal\api\api\bin\Debug\netcoreapp2.1\service.dll
-C:\Users\cbaut\source\repos\NewFinal\api\api\bin\Debug\netcoreapp2.1\service.pdb
